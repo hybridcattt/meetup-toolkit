@@ -13,9 +13,9 @@ Please provide the following information as soon as possible, so we can start pl
 
 ## Arrival & directions 
 
-Hang up visible signs on the entry to the building, and inside, leading the way to the room where the event takes place. Make sure there are signs near stairs and doors, pointing the  right direction. Sometimes it makes sense to put a sign on the way to the building, if the entrance is hard to find. Make sure the sign has contact information. (use [this template]() and print as many as you need)
+Hang up _visible signs_ on the entry to the building, and inside, leading the way to the room where the event takes place. Make sure there are signs near stairs and doors, pointing the  right direction. Sometimes it makes sense to put a sign on the way to the building, if the entrance is hard to find. Make sure the sign has contact information. (use [this template]() and print as many as you need)
 
-Make sure doors are _open_, at least until the talks start. If any door is locked and needs a key or code, make sure there is someone standing there to let the guests in during arrival time. Ideally it would be your own employees, but organisers can help too - just let us know in advance in case you have many doors, as there might be only one organiser on site.
+Make sure _doors are open_, at least until the talks start. If any door is locked and needs a key or code, make sure there is someone standing there to let the guests in during arrival time. Ideally it would be your own employees, but organisers can help too - just let us know in advance in case you have many doors, as there might be only one organiser on site.
 
 ## Location prep
 

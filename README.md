@@ -2,6 +2,6 @@
 
 A collection of resources to make organizing meetups easier
 
-[Instructions for hosts](host-instructions.md)
+- [Instructions for host venues](host-instructions.md)
 
-[Poster templates](poster-templates.md)
+- [Poster templates](poster-templates.md)
