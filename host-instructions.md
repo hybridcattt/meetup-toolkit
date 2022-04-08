@@ -13,7 +13,7 @@ Please provide the following information as soon as possible, so we can start pl
 
 ## Arrival & directions 
 
-Hang up _visible signs_ on the entry to the building, and inside, leading the way to the room where the event takes place. Make sure there are signs near stairs and doors, pointing the  right direction. Sometimes it makes sense to put a sign on the way to the building, if the entrance is hard to find. Make sure the sign has contact information. (use [this template]() and print as many as you need)
+Hang up _visible signs_ on the entry to the building, and inside, leading the way to the room where the event takes place. Make sure there are signs near stairs and doors, pointing the  right direction. Sometimes it makes sense to put a sign on the way to the building, if the entrance is hard to find. Make sure the sign has contact information. (use [the templates](poster-templates.md) and print as many as you need)
 
 Make sure _doors are open_, at least until the talks start. If any door is locked and needs a key or code, make sure there is someone standing there to let the guests in during arrival time. Ideally it would be your own employees, but organisers can help too - just let us know in advance in case you have many doors, as there might be only one organiser on site.
 
@@ -27,7 +27,7 @@ Background lounge music works really well for mingling time, so if you have a sp
 
 Set up the area where the food will be served. Place napkins and hand sanitiser in reasonable amounts. 
 
-Hang one or two signs pointing at where the bathrooms are. It’s a good idea to mention the bathroom locations during the welcome message too. 
+Hang one or two signs pointing at where the bathrooms are (use [the templates](poster-templates.md)). It’s a good idea to mention the bathroom locations during the welcome message too. 
 
 ## Food 
 
